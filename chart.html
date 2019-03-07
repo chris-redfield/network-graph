@@ -4,6 +4,7 @@
 
 <!-- Load d3.js -->
 <script src="http://d3js.org/d3.v4.js"></script>
+<script src="//d3js.org/d3-scale-chromatic.v4.min.js"></script>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
@@ -11,10 +12,11 @@
 
 <script>
 
+
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 30, bottom: 30, left: 40},
-  width = 400 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
+  width = 600 - margin.left - margin.right,
+  height = 600 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -25,8 +27,11 @@ var svg = d3.select("#my_dataviz")
   .attr("transform",
         "translate(" + margin.left + "," + margin.top + ")");
 
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+
 d3.json("data.json", function( data) {
 
+  //console.log(data.links)
   // Initialize the links
   var link = svg
     .selectAll("line")
@@ -41,8 +46,8 @@ d3.json("data.json", function( data) {
     .data(data.nodes)
     .enter()
     .append("circle")
-      .attr("r", 20)
-      .style("fill", "#69b3a2")
+      .attr("r", 10)
+      .attr("fill", d=>color(d.group))
 
   // Let's list the force we wanna apply on the network
   var simulation = d3.forceSimulation(data.nodes)                 // Force algorithm is applied to data.nodes
@@ -50,7 +55,7 @@ d3.json("data.json", function( data) {
             .id(function(d) { return d.id; })                     // This provide  the id of a node
             .links(data.links)                                    // and this the list of links
       )
-      .force("charge", d3.forceManyBody().strength(-400))         // This adds repulsion between nodes. Play with the -400 for the repulsion strength
+      .force("charge", d3.forceManyBody().strength(-300))         // This adds repulsion between nodes. Play with the -400 for the repulsion strength
       .force("center", d3.forceCenter(width / 2, height / 2))     // This force attracts nodes to the center of the svg area
       .on("end", ticked);
 
