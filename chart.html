@@ -43,7 +43,7 @@ d3.json("data.json", function( data) {
 
   var simulation = d3.forceSimulation(data.nodes)
       .force("link", d3.forceLink(data.links).id(d => d.id))
-      .force("charge", d3.forceManyBody().strength(-300))
+      .force("charge", d3.forceManyBody().strength(-400))
       .force("center", d3.forceCenter(width / 2, height / 2));
       //.on("end", ticked);
 
@@ -82,6 +82,16 @@ d3.json("data.json", function( data) {
       .attr("fill", d=>color(d.group))
       .call(drag(simulation));
 
+var label = svg.selectAll("nodes")
+						.data(data.nodes)
+						.enter()
+						.append("text")
+					    .text(function (d) { return d.name; })
+					    .style("text-anchor", "middle")
+					    .style("fill", "#555")
+					    .style("font-family", "Arial")
+					    .style("font-size", "7px");
+
   simulation.on("tick", () => {
     link
         .attr("x1", d => d.source.x)
@@ -92,6 +102,10 @@ d3.json("data.json", function( data) {
     node
         .attr("cx", d => d.x)
         .attr("cy", d => d.y);
+        
+    label
+        .attr("x", function(d){ return d.x; })
+    		.attr("y", function (d) {return d.y + 18; });
   });
 
 
