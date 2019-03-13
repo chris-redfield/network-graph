@@ -17,6 +17,8 @@ var margin = {top: 10, right: 30, bottom: 30, left: 40},
   width = 1200 - margin.left - margin.right,
   height = 1000 - margin.top - margin.bottom;
 
+var radius = 8
+
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
 .append("svg")
@@ -43,7 +45,7 @@ d3.json("data.json", function( data) {
 
   var simulation = d3.forceSimulation(data.nodes)
       .force("link", d3.forceLink(data.links).id(d => d.id))
-      .force("charge", d3.forceManyBody().strength(-200))
+      .force("charge", d3.forceManyBody().strength(-100))
       .force("center", d3.forceCenter(width / 2, height / 2));
       //.on("end", ticked);
 
@@ -78,7 +80,7 @@ d3.json("data.json", function( data) {
     .data(data.nodes)
     .enter()
     .append("circle")
-      .attr("r", 10)
+      .attr("r", radius - 0.75)
       .attr("fill", d=>color(d.group))
       .call(drag(simulation));
 
@@ -100,8 +102,11 @@ var label = svg.selectAll("nodes")
         .attr("y2", d => d.target.y);
 
     node
-        .attr("cx", d => d.x)
-        .attr("cy", d => d.y);
+        // .attr("cx", d => d.x)
+        // .attr("cy", d => d.y);
+        // forca para ficar dentro do 'canvas' do svg
+        .attr("cx", d => Math.max(radius, Math.min(width - radius, d.x)))
+        .attr("cy", d => Math.max(radius, Math.min(height - radius, d.y)));
         
     label
         .attr("x", function(d){ return d.x; })
