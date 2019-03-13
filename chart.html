@@ -14,8 +14,8 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 30, bottom: 30, left: 40},
-  width = 600 - margin.left - margin.right,
-  height = 600 - margin.top - margin.bottom;
+  width = 1200 - margin.left - margin.right,
+  height = 1000 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -43,7 +43,7 @@ d3.json("data.json", function( data) {
 
   var simulation = d3.forceSimulation(data.nodes)
       .force("link", d3.forceLink(data.links).id(d => d.id))
-      .force("charge", d3.forceManyBody().strength(-400))
+      .force("charge", d3.forceManyBody().strength(-200))
       .force("center", d3.forceCenter(width / 2, height / 2));
       //.on("end", ticked);
 
