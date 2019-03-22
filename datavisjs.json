@@ -1,1 +1,1450 @@
-{"nodes": [{"id": 191, "label": "BANCO DO BRASIL SA", "group": 1}, {"id": 20791607372, "label": "JOSE EDUARDO PEREIRA FILHO", "group": 2}, {"id": 11065391846, "label": "MARCOS RENATO COLTRI", "group": 2}, {"id": 45526150178, "label": "JOSE RICARDO FAGONDE FORNI", "group": 2}, {"id": 88039005949, "label": "REINALDO KAZUFUMI YOKOYAMA", "group": 2}, {"id": 45792364168, "label": "MARCIO HAMILTON FERREIRA", "group": 6}, {"id": 44288727987, "label": "PAULO ROGERIO CAFFARELLI", "group": 2}, {"id": 56323808153, "label": "MARCELO AUGUSTO DUTRA LABUTO", "group": 2}, {"id": 8503561808, "label": "ROGERIO MAGNO PANCA", "group": 2}, {"id": 15637026653, "label": "ANTONIO GUSTAVO MATOS DO VALE", "group": 6}, {"id": 66943515934, "label": "CICERO PRZENDSIUK", "group": 2}, {"id": 51771497068, "label": "SIMAO LUIZ KOVALSKI", "group": 2}, {"id": 8775558858, "label": "FERNANDO FLORENCIO CAMPOS", "group": 2}, {"id": 141590742, "label": "CARLOS ALBERTO ARAUJO NETTO", "group": 2}, {"id": 45360030968, "label": "TARCISIO HUBNER", "group": 2}, {"id": 69298394187, "label": "MARVIO MELO FREITAS", "group": 2}, {"id": 3802287851, "label": "ANTONIO MAURICIO MAURANO", "group": 2}, {"id": 51030926034, "label": "EDSON ROGERIO DA COSTA", "group": 2}, {"id": 77689062768, "label": "BERNARDO DE AZEVEDO SILVA ROTHE", "group": 2}, {"id": 58349138653, "label": "NILSON MARTINIANO MOREIRA", "group": 2}, {"id": 98176170763, "label": "LEONARDO SILVA DE LOYOLA REIS", "group": 2}, {"id": 10129586803, "label": "CARLA NESI", "group": 2}, {"id": 9219824884, "label": "CARLOS RENATO BONETTI", "group": 2}, {"id": 97816000715, "label": "GUSTAVO DE SOUZA FOSSE", "group": 2}, {"id": 48767778615, "label": "MARCO TULIO MORAES DA COSTA", "group": 2}, {"id": 57490716691, "label": "JOSE CAETANO DE ANDRADE MINCHILLO", "group": 2}, {"id": 54103592087, "label": "EDUARDO CESAR PASA", "group": 2}, {"id": 74940333604, "label": "MARCO TULIO DE OLIVEIRA MENDONCA", "group": 2}, {"id": 36504572100, "label": "JOSE EDUARDO MOREIRA BERGO", "group": 2}, {"id": 54030919987, "label": "LUCINEIA POSSAR", "group": 2}, {"id": 11771846801, "label": "WALTER MALIENI JUNIOR", "group": 2}, {"id": 6285903859, "label": "MARCIO LUIZ MORAL", "group": 2}, {"id": 50381601900, "label": "FABIANO MACANHAN FONTES", "group": 2}, {"id": 95509305720, "label": "ALEXANDRE ALVES DE SOUZA", "group": 2}, {"id": 36434752172, "label": "JOAO PINTO RABELO JUNIOR", "group": 2}, {"id": 22379479372, "label": "CARLOS HAMILTON VASCONCELOS ARAUJO", "group": 2}, {"id": 6219812816, "label": "MARCO ANTONIO ASCOLI MASTROENI", "group": 2}, {"id": 2397045761, "label": "LITIZA BERNARDES GONCALVES", "group": 5}, {"id": 9055424870, "label": "VANIA MARIA DAVID MAURANO", "group": 5}, {"id": 195136, "label": "BANCO VOTORANTIM S.A.", "group": 4}, {"id": 24653097810, "label": "ELAINE CRISTINA SPOLAORE DE ANDRADE MASTROENI", "group": 5}, {"id": 19216481803, "label": "HELAINE ANTONIA PETRINI MORAL", "group": 5}, {"id": 12144575843, "label": "RAQUEL AKEMI SINZATO PANCA", "group": 5}, {"id": 10979241812, "label": "CLAUDIA CASA NOVA GUARANY BONETTI", "group": 5}, {"id": 17667413800, "label": "KELLY CRISTIANE FERNANDES DE ARAUJO CAMPOS", "group": 5}, {"id": 16656663826, "label": "LUCIANA JULIANO BARBIN MALIENI", "group": 5}, {"id": 3529, "label": "EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUARIA - INFRAERO", "group": 4}, {"id": 43317278668, "label": "MARLI APARECIDA GARCIA DO VALE", "group": 5}, {"id": 43949231315, "label": "ANA LUIZA MARTINS BARBOSA EDUARDO PEREIRA", "group": 5}, {"id": 63475170191, "label": "MILENA BRITTO BARBOSA", "group": 5}, {"id": 58502092120, "label": "SIMONE SARKIS TEIXEIRA BERGO", "group": 5}, {"id": 11375, "label": "CIELO S.A.", "group": 4}, {"id": 91910994987, "label": "ANNA PAULA FERREIRA MOSCALESKI CAFFARELLI", "group": 5}, {"id": 54628610959, "label": "NAIDI MALGARETTE ZANELLA HUBNER", "group": 5}, {"id": 68879911104, "label": "PAULINA PIROSKA GONZALEZ FORNI", "group": 5}, {"id": 8403591799, "label": "FLAVIA TEREZA FRADE DE ARAGAO FERREIRA", "group": 5}, {"id": 174574, "label": "CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL", "group": 4}, {"id": 90096908653, "label": "ALEXIA MARIA VILELA SOARES MENDONCA", "group": 5}, {"id": 87479893949, "label": "ADRIANA DIAS VINTEM FONTES", "group": 5}, {"id": 2949463908, "label": "LUCIANE BUSS EFFTING", "group": 5}, {"id": 72397535149, "label": "ELISA GOULART MACHADO KOVALSKI", "group": 5}, {"id": 69693820010, "label": "LENARA SARZI PASA", "group": 5}, {"id": 63572257115, "label": "KARLA APARECIDA DE SOUZA MOTTA", "group": 5}, {"id": 79914675620, "label": "MARIA DORISE NASCIMENTO MINCHILLO", "group": 5}, {"id": 154030767, "label": "VERONICA AMERICO DOS REIS PRZENDSIUK", "group": 5}, {"id": 183888, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183889, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183890, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183891, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183892, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183893, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183894, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183895, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183896, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183897, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183898, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183899, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183900, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183901, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183903, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183904, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183906, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183908, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183909, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183910, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183912, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183913, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183914, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183916, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183918, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183920, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183921, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183922, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 183923, "label": "BB TECNOLOGIA E SERVICOS S.A", "group": 4}, {"id": 267334, "label": "CESAR DE MENDONCA DANTAS", "group": 4}, {"id": 374552, "label": "ANTONIO SALVADOR SILVA", "group": 4}, {"id": 55719368191, "label": "LEIDE ALVES DA FONSECA FREITAS", "group": 5}, {"id": 69619247604, "label": "LUCILA GOUVEIA ALVES DA COSTA", "group": 5}, {"id": 18053803890, "label": "BEATRIZ PENTEADO SILVA ROTHE", "group": 5}, {"id": 71746633972, "label": "SILVIA KEIKO KAJIYAMA YOKOYAMA", "group": 5}, {"id": 99125579720, "label": "RENATA PICCININI DE CARVALHO", "group": 5}, {"id": 60612487172, "label": "PRISCILA COSTA DE SOUZA", "group": 5}, {"id": 1458058751, "label": "SIMONE SANTOS PORTER DE SOUZA REIS", "group": 5}], "edges": [{"from": 20791607372, "to": 191}, {"from": 11065391846, "to": 191}, {"from": 45526150178, "to": 191}, {"from": 88039005949, "to": 191}, {"from": 45792364168, "to": 191}, {"from": 44288727987, "to": 191}, {"from": 56323808153, "to": 191}, {"from": 8503561808, "to": 191}, {"from": 15637026653, "to": 191}, {"from": 66943515934, "to": 191}, {"from": 51771497068, "to": 191}, {"from": 8775558858, "to": 191}, {"from": 141590742, "to": 191}, {"from": 45360030968, "to": 191}, {"from": 69298394187, "to": 191}, {"from": 3802287851, "to": 191}, {"from": 51030926034, "to": 191}, {"from": 77689062768, "to": 191}, {"from": 58349138653, "to": 191}, {"from": 98176170763, "to": 191}, {"from": 10129586803, "to": 191}, {"from": 9219824884, "to": 191}, {"from": 97816000715, "to": 191}, {"from": 48767778615, "to": 191}, {"from": 57490716691, "to": 191}, {"from": 54103592087, "to": 191}, {"from": 74940333604, "to": 191}, {"from": 36504572100, "to": 191}, {"from": 54030919987, "to": 191}, {"from": 11771846801, "to": 191}, {"from": 6285903859, "to": 191}, {"from": 50381601900, "to": 191}, {"from": 95509305720, "to": 191}, {"from": 36434752172, "to": 191}, {"from": 22379479372, "to": 191}, {"from": 6219812816, "to": 191}, {"from": 2397045761, "to": 141590742}, {"from": 9055424870, "to": 3802287851}, {"from": 195136, "to": 3802287851}, {"from": 24653097810, "to": 6219812816}, {"from": 19216481803, "to": 6285903859}, {"from": 12144575843, "to": 8503561808}, {"from": 10979241812, "to": 9219824884}, {"from": 17667413800, "to": 8775558858}, {"from": 16656663826, "to": 11771846801}, {"from": 3529, "to": 15637026653}, {"from": 43317278668, "to": 15637026653}, {"from": 43949231315, "to": 20791607372}, {"from": 63475170191, "to": 36434752172}, {"from": 58502092120, "to": 36504572100}, {"from": 11375, "to": 44288727987}, {"from": 195136, "to": 44288727987}, {"from": 91910994987, "to": 44288727987}, {"from": 54628610959, "to": 45360030968}, {"from": 68879911104, "to": 45526150178}, {"from": 8403591799, "to": 45792364168}, {"from": 174574, "to": 45792364168}, {"from": 90096908653, "to": 48767778615}, {"from": 87479893949, "to": 50381601900}, {"from": 2949463908, "to": 51030926034}, {"from": 72397535149, "to": 51771497068}, {"from": 69693820010, "to": 54103592087}, {"from": 195136, "to": 56323808153}, {"from": 63572257115, "to": 56323808153}, {"from": 79914675620, "to": 57490716691}, {"from": 154030767, "to": 66943515934}, {"from": 183888, "to": 69298394187}, {"from": 183889, "to": 69298394187}, {"from": 183890, "to": 69298394187}, {"from": 183891, "to": 69298394187}, {"from": 183892, "to": 69298394187}, {"from": 183893, "to": 69298394187}, {"from": 183894, "to": 69298394187}, {"from": 183895, "to": 69298394187}, {"from": 183896, "to": 69298394187}, {"from": 183897, "to": 69298394187}, {"from": 183898, "to": 69298394187}, {"from": 183899, "to": 69298394187}, {"from": 183900, "to": 69298394187}, {"from": 183901, "to": 69298394187}, {"from": 183903, "to": 69298394187}, {"from": 183904, "to": 69298394187}, {"from": 183906, "to": 69298394187}, {"from": 183908, "to": 69298394187}, {"from": 183909, "to": 69298394187}, {"from": 183910, "to": 69298394187}, {"from": 183912, "to": 69298394187}, {"from": 183913, "to": 69298394187}, {"from": 183914, "to": 69298394187}, {"from": 183916, "to": 69298394187}, {"from": 183918, "to": 69298394187}, {"from": 183920, "to": 69298394187}, {"from": 183921, "to": 69298394187}, {"from": 183922, "to": 69298394187}, {"from": 183923, "to": 69298394187}, {"from": 267334, "to": 69298394187}, {"from": 374552, "to": 69298394187}, {"from": 55719368191, "to": 69298394187}, {"from": 69619247604, "to": 74940333604}, {"from": 18053803890, "to": 77689062768}, {"from": 71746633972, "to": 88039005949}, {"from": 99125579720, "to": 95509305720}, {"from": 183888, "to": 97816000715}, {"from": 183889, "to": 97816000715}, {"from": 183890, "to": 97816000715}, {"from": 183891, "to": 97816000715}, {"from": 183892, "to": 97816000715}, {"from": 183893, "to": 97816000715}, {"from": 183894, "to": 97816000715}, {"from": 183895, "to": 97816000715}, {"from": 183896, "to": 97816000715}, {"from": 183897, "to": 97816000715}, {"from": 183898, "to": 97816000715}, {"from": 183899, "to": 97816000715}, {"from": 183900, "to": 97816000715}, {"from": 183901, "to": 97816000715}, {"from": 183903, "to": 97816000715}, {"from": 183904, "to": 97816000715}, {"from": 183906, "to": 97816000715}, {"from": 183908, "to": 97816000715}, {"from": 183909, "to": 97816000715}, {"from": 183910, "to": 97816000715}, {"from": 183912, "to": 97816000715}, {"from": 183913, "to": 97816000715}, {"from": 183914, "to": 97816000715}, {"from": 183916, "to": 97816000715}, {"from": 183918, "to": 97816000715}, {"from": 183920, "to": 97816000715}, {"from": 183921, "to": 97816000715}, {"from": 183922, "to": 97816000715}, {"from": 183923, "to": 97816000715}, {"from": 267334, "to": 97816000715}, {"from": 374552, "to": 97816000715}, {"from": 60612487172, "to": 97816000715}, {"from": 1458058751, "to": 98176170763}]}
+{
+  "nodes": [
+    {
+       "id":1,
+       "label":"BANCO DO BRASIL SA",
+       "title":"BANCO DO BRASIL SA <br>Fornecedor <br>CPF: 1<br>PAI:  <br>Participação: 51,0%",
+       "group":"Fornecedor"
+    },
+    {
+       "id":3529,
+       "label":"EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUARIA - INFRAERO",
+       "title":"EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUARIA - INFRAERO <br>Fornecedor <br>CPF: 3529<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":174574,
+       "label":"CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL",
+       "title":"CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL <br>Fornecedor <br>CPF: 174574<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183888,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183888<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183889,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183889<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183890,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183890<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183891,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183891<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183892,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183892<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183893,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183893<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183894,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183894<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183895,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183895<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183896,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183896<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183897,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183897<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183898,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183898<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183899,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183899<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183900,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183900<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183901,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183901<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183903,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183903<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183904,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183904<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183906,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183906<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183908,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183908<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183909,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183909<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183910,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183910<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183912,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183912<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183913,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183913<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183914,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183914<br>PAI:  <br>Participação: 100,0%",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183916,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183916<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183918,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183918<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183920,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183920<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183921,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183921<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183922,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183922<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":183923,
+       "label":"BB TECNOLOGIA E SERVICOS S.A",
+       "title":"BB TECNOLOGIA E SERVICOS S.A <br>Fornecedor <br>CPF: 183923<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":195136,
+       "label":"BANCO VOTORANTIM S.A.",
+       "title":"BANCO VOTORANTIM S.A. <br>Fornecedor <br>CPF: 195136<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":267334,
+       "label":"CESAR DE MENDONCA DANTAS",
+       "title":"CESAR DE MENDONCA DANTAS <br>Fornecedor <br>CPF: 267334<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":374552,
+       "label":"ANTONIO SALVADOR SILVA",
+       "title":"ANTONIO SALVADOR SILVA <br>Fornecedor <br>CPF: 374552<br>PAI:  <br>Participação: %",
+       "group":"Fornecedor"
+    },
+    {
+       "id":141590742,
+       "label":"CARLOS ALBERTO ARAUJO NETTO",
+       "title":"CARLOS ALBERTO ARAUJO NETTO <br>Sócio <br>CPF: 00141590742<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":154030767,
+       "label":"VERONICA AMERICO DOS REIS PRZENDSIUK",
+       "title":"VERONICA AMERICO DOS REIS PRZENDSIUK <br>Conjuge <br>CPF: 00154030767<br>PAI: 66943515934 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":1458058751,
+       "label":"SIMONE SANTOS PORTER DE SOUZA REIS",
+       "title":"SIMONE SANTOS PORTER DE SOUZA REIS <br>Conjuge <br>CPF: 01458058751<br>PAI: 98176170763 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":2397045761,
+       "label":"LITIZA BERNARDES GONCALVES",
+       "title":"LITIZA BERNARDES GONCALVES <br>Conjuge <br>CPF: 02397045761<br>PAI: 00141590742 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":2718511800,
+       "label":"SILVANA MARIA ZACHARIAS BENDINE",
+       "title":"SILVANA MARIA ZACHARIAS BENDINE <br>Conjuge <br>CPF: 02718511800<br>PAI: 04398040862 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":2949463908,
+       "label":"LUCIANE BUSS EFFTING",
+       "title":"LUCIANE BUSS EFFTING <br>Conjuge <br>CPF: 02949463908<br>PAI: 51030926034 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":3802287851,
+       "label":"ANTONIO MAURICIO MAURANO",
+       "title":"ANTONIO MAURICIO MAURANO <br>Sócio <br>CPF: 03802287851<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":4398040862,
+       "label":"ALDEMIR BENDINE",
+       "title":"ALDEMIR BENDINE <br>Dirigente <br>CPF: 04398040862<br>PAI: 1 <br>Participação: %",
+       "group":"Dirigente"
+    },
+    {
+       "id":6219812816,
+       "label":"MARCO ANTONIO ASCOLI MASTROENI",
+       "title":"MARCO ANTONIO ASCOLI MASTROENI <br>Sócio <br>CPF: 06219812816<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":6285903859,
+       "label":"MARCIO LUIZ MORAL",
+       "title":"MARCIO LUIZ MORAL <br>Sócio <br>CPF: 06285903859<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":8403591799,
+       "label":"FLAVIA TEREZA FRADE DE ARAGAO FERREIRA",
+       "title":"FLAVIA TEREZA FRADE DE ARAGAO FERREIRA <br>Conjuge <br>CPF: 08403591799<br>PAI: 45792364168 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":8503561808,
+       "label":"ROGERIO MAGNO PANCA",
+       "title":"ROGERIO MAGNO PANCA <br>Sócio <br>CPF: 08503561808<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":8775558858,
+       "label":"FERNANDO FLORENCIO CAMPOS",
+       "title":"FERNANDO FLORENCIO CAMPOS <br>Sócio <br>CPF: 08775558858<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":9055424870,
+       "label":"VANIA MARIA DAVID MAURANO",
+       "title":"VANIA MARIA DAVID MAURANO <br>Conjuge <br>CPF: 09055424870<br>PAI: 03802287851 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":9219824884,
+       "label":"CARLOS RENATO BONETTI",
+       "title":"CARLOS RENATO BONETTI <br>Sócio <br>CPF: 09219824884<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":9807411149,
+       "label":"HEMULO LEMOS GONCALVES",
+       "title":"HEMULO LEMOS GONCALVES <br>Dirigente <br>CPF: 09807411149<br>PAI: 1 <br>Participação: %",
+       "group":"Dirigente"
+    },
+    {
+       "id":10129586803,
+       "label":"CARLA NESI",
+       "title":"CARLA NESI <br>Sócio <br>CPF: 10129586803<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":10979241812,
+       "label":"CLAUDIA CASA NOVA GUARANY BONETTI",
+       "title":"CLAUDIA CASA NOVA GUARANY BONETTI <br>Conjuge <br>CPF: 10979241812<br>PAI: 09219824884 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":11065391846,
+       "label":"MARCOS RENATO COLTRI",
+       "title":"MARCOS RENATO COLTRI <br>Sócio <br>CPF: 11065391846<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":11771846801,
+       "label":"WALTER MALIENI JUNIOR",
+       "title":"WALTER MALIENI JUNIOR <br>Sócio <br>CPF: 11771846801<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":12144575843,
+       "label":"RAQUEL AKEMI SINZATO PANCA",
+       "title":"RAQUEL AKEMI SINZATO PANCA <br>Conjuge <br>CPF: 12144575843<br>PAI: 08503561808 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":15637026653,
+       "label":"ANTONIO GUSTAVO MATOS DO VALE",
+       "title":"ANTONIO GUSTAVO MATOS DO VALE <br>Sócio <br>CPF: 15637026653<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":16656663826,
+       "label":"LUCIANA JULIANO BARBIN MALIENI",
+       "title":"LUCIANA JULIANO BARBIN MALIENI <br>Conjuge <br>CPF: 16656663826<br>PAI: 11771846801 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":17667413800,
+       "label":"KELLY CRISTIANE FERNANDES DE ARAUJO CAMPOS",
+       "title":"KELLY CRISTIANE FERNANDES DE ARAUJO CAMPOS <br>Conjuge <br>CPF: 17667413800<br>PAI: 08775558858 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":18053803890,
+       "label":"BEATRIZ PENTEADO SILVA ROTHE",
+       "title":"BEATRIZ PENTEADO SILVA ROTHE <br>Conjuge <br>CPF: 18053803890<br>PAI: 77689062768 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":19216481803,
+       "label":"HELAINE ANTONIA PETRINI MORAL",
+       "title":"HELAINE ANTONIA PETRINI MORAL <br>Conjuge <br>CPF: 19216481803<br>PAI: 06285903859 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":20791607372,
+       "label":"JOSE EDUARDO PEREIRA FILHO",
+       "title":"JOSE EDUARDO PEREIRA FILHO <br>Sócio <br>CPF: 20791607372<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":22379479372,
+       "label":"CARLOS HAMILTON VASCONCELOS ARAUJO",
+       "title":"CARLOS HAMILTON VASCONCELOS ARAUJO <br>Sócio <br>CPF: 22379479372<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":24653097810,
+       "label":"ELAINE CRISTINA SPOLAORE DE ANDRADE MASTROENI",
+       "title":"ELAINE CRISTINA SPOLAORE DE ANDRADE MASTROENI <br>Conjuge <br>CPF: 24653097810<br>PAI: 06219812816 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":33455074120,
+       "label":"ADRIANO MEIRA RICCI",
+       "title":"ADRIANO MEIRA RICCI <br>Sócio <br>CPF: 33455074120<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":36434752172,
+       "label":"JOAO PINTO RABELO JUNIOR",
+       "title":"JOAO PINTO RABELO JUNIOR <br>Sócio <br>CPF: 36434752172<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":36504572100,
+       "label":"JOSE EDUARDO MOREIRA BERGO",
+       "title":"JOSE EDUARDO MOREIRA BERGO <br>Sócio <br>CPF: 36504572100<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":41796373168,
+       "label":"ADRIANA KARINA DE SIMOES MUNIZ",
+       "title":"ADRIANA KARINA DE SIMOES MUNIZ <br>Conjuge <br>CPF: 41796373168<br>PAI: 33455074120 <br>Participação: 100,0%",
+       "group":"Conjuge"
+    },
+    {
+       "id":43317278668,
+       "label":"MARLI APARECIDA GARCIA DO VALE",
+       "title":"MARLI APARECIDA GARCIA DO VALE <br>Conjuge <br>CPF: 43317278668<br>PAI: 15637026653 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":43949231315,
+       "label":"ANA LUIZA MARTINS BARBOSA EDUARDO PEREIRA",
+       "title":"ANA LUIZA MARTINS BARBOSA EDUARDO PEREIRA <br>Conjuge <br>CPF: 43949231315<br>PAI: 20791607372 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":44288727987,
+       "label":"PAULO ROGERIO CAFFARELLI",
+       "title":"PAULO ROGERIO CAFFARELLI <br>Sócio e Dirigente <br>CPF: 44288727987<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio e Dirigente"
+    },
+    {
+       "id":45360030968,
+       "label":"TARCISIO HUBNER",
+       "title":"TARCISIO HUBNER <br>Sócio <br>CPF: 45360030968<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":45526150178,
+       "label":"JOSE RICARDO FAGONDE FORNI",
+       "title":"JOSE RICARDO FAGONDE FORNI <br>Sócio <br>CPF: 45526150178<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":45792364168,
+       "label":"MARCIO HAMILTON FERREIRA",
+       "title":"MARCIO HAMILTON FERREIRA <br>Sócio <br>CPF: 45792364168<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":48767778615,
+       "label":"MARCO TULIO MORAES DA COSTA",
+       "title":"MARCO TULIO MORAES DA COSTA <br>Sócio <br>CPF: 48767778615<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":50381601900,
+       "label":"FABIANO MACANHAN FONTES",
+       "title":"FABIANO MACANHAN FONTES <br>Sócio <br>CPF: 50381601900<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":51030926034,
+       "label":"EDSON ROGERIO DA COSTA",
+       "title":"EDSON ROGERIO DA COSTA <br>Sócio <br>CPF: 51030926034<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":51771497068,
+       "label":"SIMAO LUIZ KOVALSKI",
+       "title":"SIMAO LUIZ KOVALSKI <br>Sócio <br>CPF: 51771497068<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":54030919987,
+       "label":"LUCINEIA POSSAR",
+       "title":"LUCINEIA POSSAR <br>Sócio <br>CPF: 54030919987<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":54103592087,
+       "label":"EDUARDO CESAR PASA",
+       "title":"EDUARDO CESAR PASA <br>Sócio <br>CPF: 54103592087<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":54628610959,
+       "label":"NAIDI MALGARETTE ZANELLA HUBNER",
+       "title":"NAIDI MALGARETTE ZANELLA HUBNER <br>Conjuge <br>CPF: 54628610959<br>PAI: 45360030968 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":55719368191,
+       "label":"LEIDE ALVES DA FONSECA FREITAS",
+       "title":"LEIDE ALVES DA FONSECA FREITAS <br>Conjuge <br>CPF: 55719368191<br>PAI: 69298394187 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":56323808153,
+       "label":"MARCELO AUGUSTO DUTRA LABUTO",
+       "title":"MARCELO AUGUSTO DUTRA LABUTO <br>Sócio <br>CPF: 56323808153<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":57490716691,
+       "label":"JOSE CAETANO DE ANDRADE MINCHILLO",
+       "title":"JOSE CAETANO DE ANDRADE MINCHILLO <br>Sócio <br>CPF: 57490716691<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":58349138653,
+       "label":"NILSON MARTINIANO MOREIRA",
+       "title":"NILSON MARTINIANO MOREIRA <br>Sócio <br>CPF: 58349138653<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":58502092120,
+       "label":"SIMONE SARKIS TEIXEIRA BERGO",
+       "title":"SIMONE SARKIS TEIXEIRA BERGO <br>Conjuge <br>CPF: 58502092120<br>PAI: 36504572100 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":60612487172,
+       "label":"PRISCILA COSTA DE SOUZA",
+       "title":"PRISCILA COSTA DE SOUZA <br>Conjuge <br>CPF: 60612487172<br>PAI: 97816000715 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":63475170191,
+       "label":"MILENA BRITTO BARBOSA",
+       "title":"MILENA BRITTO BARBOSA <br>Conjuge <br>CPF: 63475170191<br>PAI: 36434752172 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":63572257115,
+       "label":"KARLA APARECIDA DE SOUZA MOTTA",
+       "title":"KARLA APARECIDA DE SOUZA MOTTA <br>Conjuge <br>CPF: 63572257115<br>PAI: 56323808153 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":66943515934,
+       "label":"CICERO PRZENDSIUK",
+       "title":"CICERO PRZENDSIUK <br>Sócio <br>CPF: 66943515934<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":68879911104,
+       "label":"PAULINA PIROSKA GONZALEZ FORNI",
+       "title":"PAULINA PIROSKA GONZALEZ FORNI <br>Conjuge <br>CPF: 68879911104<br>PAI: 45526150178 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":69298394187,
+       "label":"MARVIO MELO FREITAS",
+       "title":"MARVIO MELO FREITAS <br>Sócio <br>CPF: 69298394187<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":69619247604,
+       "label":"LUCILA GOUVEIA ALVES DA COSTA",
+       "title":"LUCILA GOUVEIA ALVES DA COSTA <br>Conjuge <br>CPF: 69619247604<br>PAI: 74940333604 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":69693820010,
+       "label":"LENARA SARZI PASA",
+       "title":"LENARA SARZI PASA <br>Conjuge <br>CPF: 69693820010<br>PAI: 54103592087 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":71746633972,
+       "label":"SILVIA KEIKO KAJIYAMA YOKOYAMA",
+       "title":"SILVIA KEIKO KAJIYAMA YOKOYAMA <br>Conjuge <br>CPF: 71746633972<br>PAI: 88039005949 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":72397535149,
+       "label":"ELISA GOULART MACHADO KOVALSKI",
+       "title":"ELISA GOULART MACHADO KOVALSKI <br>Conjuge <br>CPF: 72397535149<br>PAI: 51771497068 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":74940333604,
+       "label":"MARCO TULIO DE OLIVEIRA MENDONCA",
+       "title":"MARCO TULIO DE OLIVEIRA MENDONCA <br>Sócio <br>CPF: 74940333604<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":76291995115,
+       "label":"VERA LUCIA VIEIRA GONCALVES",
+       "title":"VERA LUCIA VIEIRA GONCALVES <br>Conjuge <br>CPF: 76291995115<br>PAI: 09807411149 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":76866092604,
+       "label":"LUIZ GUILHERME DE OLIVEIRA PROCOPIO",
+       "title":"LUIZ GUILHERME DE OLIVEIRA PROCOPIO <br>Dirigente <br>CPF: 76866092604<br>PAI: 1 <br>Participação: %",
+       "group":"Dirigente"
+    },
+    {
+       "id":77689062768,
+       "label":"BERNARDO DE AZEVEDO SILVA ROTHE",
+       "title":"BERNARDO DE AZEVEDO SILVA ROTHE <br>Sócio <br>CPF: 77689062768<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":79914675620,
+       "label":"MARIA DORISE NASCIMENTO MINCHILLO",
+       "title":"MARIA DORISE NASCIMENTO MINCHILLO <br>Conjuge <br>CPF: 79914675620<br>PAI: 57490716691 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":87479893949,
+       "label":"ADRIANA DIAS VINTEM FONTES",
+       "title":"ADRIANA DIAS VINTEM FONTES <br>Conjuge <br>CPF: 87479893949<br>PAI: 50381601900 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":88039005949,
+       "label":"REINALDO KAZUFUMI YOKOYAMA",
+       "title":"REINALDO KAZUFUMI YOKOYAMA <br>Sócio <br>CPF: 88039005949<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":90096908653,
+       "label":"ALEXIA MARIA VILELA SOARES MENDONCA",
+       "title":"ALEXIA MARIA VILELA SOARES MENDONCA <br>Conjuge <br>CPF: 90096908653<br>PAI: 48767778615 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":91910994987,
+       "label":"ANNA PAULA FERREIRA MOSCALESKI CAFFARELLI",
+       "title":"ANNA PAULA FERREIRA MOSCALESKI CAFFARELLI <br>Conjuge <br>CPF: 91910994987<br>PAI: 44288727987 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":95509305720,
+       "label":"ALEXANDRE ALVES DE SOUZA",
+       "title":"ALEXANDRE ALVES DE SOUZA <br>Sócio <br>CPF: 95509305720<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":97816000715,
+       "label":"GUSTAVO DE SOUZA FOSSE",
+       "title":"GUSTAVO DE SOUZA FOSSE <br>Sócio <br>CPF: 97816000715<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":98176170763,
+       "label":"LEONARDO SILVA DE LOYOLA REIS",
+       "title":"LEONARDO SILVA DE LOYOLA REIS <br>Sócio <br>CPF: 98176170763<br>PAI: 1 <br>Participação: %",
+       "group":"Sócio"
+    },
+    {
+       "id":99125579720,
+       "label":"RENATA PICCININI DE CARVALHO",
+       "title":"RENATA PICCININI DE CARVALHO <br>Conjuge <br>CPF: 99125579720<br>PAI: 95509305720 <br>Participação: %",
+       "group":"Conjuge"
+    },
+    {
+       "id":394460000818,
+       "label":"MINISTERIO DA FAZENDA",
+       "title":"MINISTERIO DA FAZENDA <br>Sócio <br>CPF: 00394460000818<br>PAI: 1 <br>Participação: 51,0%",
+       "group":"Sócio"
+    }
+ ],
+  "edges": [
+    {
+      "from": 1,
+      "to": "NaN"
+    },
+    {
+      "from": 3529,
+      "to": "NaN"
+    },
+    {
+      "from": 174574,
+      "to": "NaN"
+    },
+    {
+      "from": 183888,
+      "to": "NaN"
+    },
+    {
+      "from": 183889,
+      "to": "NaN"
+    },
+    {
+      "from": 183890,
+      "to": "NaN"
+    },
+    {
+      "from": 183891,
+      "to": "NaN"
+    },
+    {
+      "from": 183892,
+      "to": "NaN"
+    },
+    {
+      "from": 183893,
+      "to": "NaN"
+    },
+    {
+      "from": 183894,
+      "to": "NaN"
+    },
+    {
+      "from": 183895,
+      "to": "NaN"
+    },
+    {
+      "from": 183896,
+      "to": "NaN"
+    },
+    {
+      "from": 183897,
+      "to": "NaN"
+    },
+    {
+      "from": 183898,
+      "to": "NaN"
+    },
+    {
+      "from": 183899,
+      "to": "NaN"
+    },
+    {
+      "from": 183900,
+      "to": "NaN"
+    },
+    {
+      "from": 183901,
+      "to": "NaN"
+    },
+    {
+      "from": 183903,
+      "to": "NaN"
+    },
+    {
+      "from": 183904,
+      "to": "NaN"
+    },
+    {
+      "from": 183906,
+      "to": "NaN"
+    },
+    {
+      "from": 183908,
+      "to": "NaN"
+    },
+    {
+      "from": 183909,
+      "to": "NaN"
+    },
+    {
+      "from": 183910,
+      "to": "NaN"
+    },
+    {
+      "from": 183912,
+      "to": "NaN"
+    },
+    {
+      "from": 183913,
+      "to": "NaN"
+    },
+    {
+      "from": 183914,
+      "to": "NaN"
+    },
+    {
+      "from": 183916,
+      "to": "NaN"
+    },
+    {
+      "from": 183918,
+      "to": "NaN"
+    },
+    {
+      "from": 183920,
+      "to": "NaN"
+    },
+    {
+      "from": 183921,
+      "to": "NaN"
+    },
+    {
+      "from": 183922,
+      "to": "NaN"
+    },
+    {
+      "from": 183923,
+      "to": "NaN"
+    },
+    {
+      "from": 195136,
+      "to": "NaN"
+    },
+    {
+      "from": 267334,
+      "to": "NaN"
+    },
+    {
+      "from": 374552,
+      "to": "NaN"
+    },
+    {
+      "from": 141590742,
+      "to": 1
+    },
+    {
+      "from": 154030767,
+      "to": 66943515934
+    },
+    {
+      "from": 1458058751,
+      "to": 98176170763
+    },
+    {
+      "from": 2397045761,
+      "to": 141590742
+    },
+    {
+      "from": 2718511800,
+      "to": 4398040862
+    },
+    {
+      "from": 2949463908,
+      "to": 51030926034
+    },
+    {
+      "from": 3802287851,
+      "to": 1
+    },
+    {
+      "from": 3802287851,
+      "to": 195136
+    },
+    {
+      "from": 3802287851,
+      "to": 283973
+    },
+    {
+      "from": 4398040862,
+      "to": 1
+    },
+    {
+      "from": 6219812816,
+      "to": 1
+    },
+    {
+      "from": 6285903859,
+      "to": 1
+    },
+    {
+      "from": 8403591799,
+      "to": 45792364168
+    },
+    {
+      "from": 8503561808,
+      "to": 1
+    },
+    {
+      "from": 8775558858,
+      "to": 1
+    },
+    {
+      "from": 8775558858,
+      "to": 283973
+    },
+    {
+      "from": 9055424870,
+      "to": 3802287851
+    },
+    {
+      "from": 9219824884,
+      "to": 1
+    },
+    {
+      "from": 9807411149,
+      "to": 1
+    },
+    {
+      "from": 10129586803,
+      "to": 1
+    },
+    {
+      "from": 10979241812,
+      "to": 9219824884
+    },
+    {
+      "from": 11065391846,
+      "to": 1
+    },
+    {
+      "from": 11771846801,
+      "to": 1
+    },
+    {
+      "from": 12144575843,
+      "to": 8503561808
+    },
+    {
+      "from": 15637026653,
+      "to": 1
+    },
+    {
+      "from": 15637026653,
+      "to": 3529
+    },
+    {
+      "from": 16656663826,
+      "to": 11771846801
+    },
+    {
+      "from": 17667413800,
+      "to": 8775558858
+    },
+    {
+      "from": 18053803890,
+      "to": 77689062768
+    },
+    {
+      "from": 19216481803,
+      "to": 6285903859
+    },
+    {
+      "from": 20791607372,
+      "to": 1
+    },
+    {
+      "from": 22379479372,
+      "to": 1
+    },
+    {
+      "from": 24653097810,
+      "to": 6219812816
+    },
+    {
+      "from": 33455074120,
+      "to": 1
+    },
+    {
+      "from": 33455074120,
+      "to": 183888
+    },
+    {
+      "from": 33455074120,
+      "to": 183891
+    },
+    {
+      "from": 33455074120,
+      "to": 183894
+    },
+    {
+      "from": 33455074120,
+      "to": 183895
+    },
+    {
+      "from": 33455074120,
+      "to": 183896
+    },
+    {
+      "from": 33455074120,
+      "to": 183898
+    },
+    {
+      "from": 33455074120,
+      "to": 183899
+    },
+    {
+      "from": 33455074120,
+      "to": 183901
+    },
+    {
+      "from": 33455074120,
+      "to": 183909
+    },
+    {
+      "from": 33455074120,
+      "to": 183912
+    },
+    {
+      "from": 33455074120,
+      "to": 183914
+    },
+    {
+      "from": 33455074120,
+      "to": 183921
+    },
+    {
+      "from": 33455074120,
+      "to": 183923
+    },
+    {
+      "from": 36434752172,
+      "to": 1
+    },
+    {
+      "from": 36504572100,
+      "to": 1
+    },
+    {
+      "from": 41796373168,
+      "to": 33455074120
+    },
+    {
+      "from": 43317278668,
+      "to": 15637026653
+    },
+    {
+      "from": 43949231315,
+      "to": 20791607372
+    },
+    {
+      "from": 44288727987,
+      "to": 1
+    },
+    {
+      "from": 44288727987,
+      "to": 195136
+    },
+    {
+      "from": 45360030968,
+      "to": 1
+    },
+    {
+      "from": 45526150178,
+      "to": 1
+    },
+    {
+      "from": 45792364168,
+      "to": 1
+    },
+    {
+      "from": 45792364168,
+      "to": 174574
+    },
+    {
+      "from": 48767778615,
+      "to": 1
+    },
+    {
+      "from": 50381601900,
+      "to": 1
+    },
+    {
+      "from": 51030926034,
+      "to": 1
+    },
+    {
+      "from": 51771497068,
+      "to": 1
+    },
+    {
+      "from": 54030919987,
+      "to": 1
+    },
+    {
+      "from": 54103592087,
+      "to": 1
+    },
+    {
+      "from": 54628610959,
+      "to": 45360030968
+    },
+    {
+      "from": 55719368191,
+      "to": 69298394187
+    },
+    {
+      "from": 56323808153,
+      "to": 1
+    },
+    {
+      "from": 56323808153,
+      "to": 195136
+    },
+    {
+      "from": 57490716691,
+      "to": 1
+    },
+    {
+      "from": 58349138653,
+      "to": 1
+    },
+    {
+      "from": 58502092120,
+      "to": 36504572100
+    },
+    {
+      "from": 60612487172,
+      "to": 97816000715
+    },
+    {
+      "from": 63475170191,
+      "to": 36434752172
+    },
+    {
+      "from": 63572257115,
+      "to": 56323808153
+    },
+    {
+      "from": 66943515934,
+      "to": 1
+    },
+    {
+      "from": 68879911104,
+      "to": 45526150178
+    },
+    {
+      "from": 69298394187,
+      "to": 1
+    },
+    {
+      "from": 69298394187,
+      "to": 183888
+    },
+    {
+      "from": 69298394187,
+      "to": 183889
+    },
+    {
+      "from": 69298394187,
+      "to": 183890
+    },
+    {
+      "from": 69298394187,
+      "to": 183891
+    },
+    {
+      "from": 69298394187,
+      "to": 183892
+    },
+    {
+      "from": 69298394187,
+      "to": 183893
+    },
+    {
+      "from": 69298394187,
+      "to": 183894
+    },
+    {
+      "from": 69298394187,
+      "to": 183895
+    },
+    {
+      "from": 69298394187,
+      "to": 183896
+    },
+    {
+      "from": 69298394187,
+      "to": 183897
+    },
+    {
+      "from": 69298394187,
+      "to": 183898
+    },
+    {
+      "from": 69298394187,
+      "to": 183899
+    },
+    {
+      "from": 69298394187,
+      "to": 183900
+    },
+    {
+      "from": 69298394187,
+      "to": 183901
+    },
+    {
+      "from": 69298394187,
+      "to": 183903
+    },
+    {
+      "from": 69298394187,
+      "to": 183904
+    },
+    {
+      "from": 69298394187,
+      "to": 183906
+    },
+    {
+      "from": 69298394187,
+      "to": 183908
+    },
+    {
+      "from": 69298394187,
+      "to": 183909
+    },
+    {
+      "from": 69298394187,
+      "to": 183910
+    },
+    {
+      "from": 69298394187,
+      "to": 183912
+    },
+    {
+      "from": 69298394187,
+      "to": 183913
+    },
+    {
+      "from": 69298394187,
+      "to": 183914
+    },
+    {
+      "from": 69298394187,
+      "to": 183916
+    },
+    {
+      "from": 69298394187,
+      "to": 183918
+    },
+    {
+      "from": 69298394187,
+      "to": 183920
+    },
+    {
+      "from": 69298394187,
+      "to": 183921
+    },
+    {
+      "from": 69298394187,
+      "to": 183922
+    },
+    {
+      "from": 69298394187,
+      "to": 183923
+    },
+    {
+      "from": 69298394187,
+      "to": 267334
+    },
+    {
+      "from": 69298394187,
+      "to": 374552
+    },
+    {
+      "from": 69298394187,
+      "to": 377308
+    },
+    {
+      "from": 69298394187,
+      "to": 393641
+    },
+    {
+      "from": 69619247604,
+      "to": 74940333604
+    },
+    {
+      "from": 69693820010,
+      "to": 54103592087
+    },
+    {
+      "from": 71746633972,
+      "to": 88039005949
+    },
+    {
+      "from": 72397535149,
+      "to": 51771497068
+    },
+    {
+      "from": 74940333604,
+      "to": 1
+    },
+    {
+      "from": 76291995115,
+      "to": 9807411149
+    },
+    {
+      "from": 76866092604,
+      "to": 1
+    },
+    {
+      "from": 77689062768,
+      "to": 1
+    },
+    {
+      "from": 79914675620,
+      "to": 57490716691
+    },
+    {
+      "from": 87479893949,
+      "to": 50381601900
+    },
+    {
+      "from": 88039005949,
+      "to": 1
+    },
+    {
+      "from": 90096908653,
+      "to": 48767778615
+    },
+    {
+      "from": 91910994987,
+      "to": 44288727987
+    },
+    {
+      "from": 95509305720,
+      "to": 1
+    },
+    {
+      "from": 97816000715,
+      "to": 1
+    },
+    {
+      "from": 97816000715,
+      "to": 183888
+    },
+    {
+      "from": 97816000715,
+      "to": 183889
+    },
+    {
+      "from": 97816000715,
+      "to": 183890
+    },
+    {
+      "from": 97816000715,
+      "to": 183891
+    },
+    {
+      "from": 97816000715,
+      "to": 183892
+    },
+    {
+      "from": 97816000715,
+      "to": 183893
+    },
+    {
+      "from": 97816000715,
+      "to": 183894
+    },
+    {
+      "from": 97816000715,
+      "to": 183895
+    },
+    {
+      "from": 97816000715,
+      "to": 183896
+    },
+    {
+      "from": 97816000715,
+      "to": 183897
+    },
+    {
+      "from": 97816000715,
+      "to": 183898
+    },
+    {
+      "from": 97816000715,
+      "to": 183899
+    },
+    {
+      "from": 97816000715,
+      "to": 183900
+    },
+    {
+      "from": 97816000715,
+      "to": 183901
+    },
+    {
+      "from": 97816000715,
+      "to": 183903
+    },
+    {
+      "from": 97816000715,
+      "to": 183904
+    },
+    {
+      "from": 97816000715,
+      "to": 183906
+    },
+    {
+      "from": 97816000715,
+      "to": 183908
+    },
+    {
+      "from": 97816000715,
+      "to": 183909
+    },
+    {
+      "from": 97816000715,
+      "to": 183910
+    },
+    {
+      "from": 97816000715,
+      "to": 183912
+    },
+    {
+      "from": 97816000715,
+      "to": 183913
+    },
+    {
+      "from": 97816000715,
+      "to": 183914
+    },
+    {
+      "from": 97816000715,
+      "to": 183916
+    },
+    {
+      "from": 97816000715,
+      "to": 183918
+    },
+    {
+      "from": 97816000715,
+      "to": 183920
+    },
+    {
+      "from": 97816000715,
+      "to": 183921
+    },
+    {
+      "from": 97816000715,
+      "to": 183922
+    },
+    {
+      "from": 97816000715,
+      "to": 183923
+    },
+    {
+      "from": 97816000715,
+      "to": 267334
+    },
+    {
+      "from": 97816000715,
+      "to": 374552
+    },
+    {
+      "from": 97816000715,
+      "to": 377308
+    },
+    {
+      "from": 97816000715,
+      "to": 393641
+    },
+    {
+      "from": 98176170763,
+      "to": 1
+    },
+    {
+      "from": 99125579720,
+      "to": 95509305720
+    },
+    {
+      "from": 394460000818,
+      "to": 1
+    }
+  ]
+}
